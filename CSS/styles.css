@@ -54,12 +54,12 @@ a:hover,a:active {
 }
 
 .intro {
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
 
 .appeal {
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
 
@@ -67,6 +67,7 @@ a:hover,a:active {
   width: 40%;
   margin: auto;
   font-size: 16px;
+  padding-top: 25px;
 }
 
 .subtitle {
