@@ -53,6 +53,22 @@ a:hover,a:active {
   color: #0f4c75;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.appeal {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright {
+  width: 40%;
+  margin: auto;
+  font-size: 16px;
+}
+
 .subtitle {
   color: #3282b8;
 }
