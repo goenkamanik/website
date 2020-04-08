@@ -9,7 +9,7 @@ h1 {
   font-size: 90px;
   font-family: 'Dancing Script', cursive;
   line-height: 2;
-  color: #0f4c75;
+  color: #3282b8;
   margin: 0;
 }
 
@@ -53,6 +53,9 @@ a:hover,a:active {
   color: #0f4c75;
 }
 
+.subtitle {
+  color: #3282b8;
+}
 .btn {
   font-family: 'Motserrat', sans-serif;
   margin: 50px auto 20px auto;
